@@ -471,12 +471,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
-desandro-matches-selector
-MIT
-
-ev-emitter
-MIT
-
 fingerprintjs2
 MIT
 Fingerprintjs2 – Modern & flexible browser fingerprint library v2
@@ -496,12 +490,6 @@ ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
 THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-
-fizzy-ui-utils
-MIT
-
-get-size
-MIT
 
 hammerjs
 MIT
@@ -527,12 +515,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-
-imagesloaded
-MIT
-
-masonry-layout
-MIT
 
 moment
 MIT
@@ -589,10 +571,7 @@ SOFTWARE.
 
 ngx-hm-carousel
 
-ngx-masonry
-MIT
-
-outlayer
+ngx-scrollbar
 MIT
 
 resize-observer-polyfill
